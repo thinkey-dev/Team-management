@@ -1,6 +1,4 @@
-# demo
-
-> A Vue.js project
+# Team-management
 
 ## Build Setup
 
