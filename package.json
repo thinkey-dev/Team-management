@@ -15,7 +15,7 @@
     "css-loader": "^0.28.11",
     "element-ui": "^2.8.2",
     "js-cookie": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nprogress": "^0.2.0",
     "sass-loader": "^7.2.0",
     "vue": "^2.5.2",
